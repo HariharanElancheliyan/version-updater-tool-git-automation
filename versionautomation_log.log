@@ -1,0 +1,110 @@
+08-Aug-22 11:47:36 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 11:47:36 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 11:47:36 - INFO  - ----------------------------------------
+08-Aug-22 11:47:36 - INFO  - Git data json file opened successfully
+08-Aug-22 11:47:36 - INFO  - branch_name added to dict Successfully
+08-Aug-22 11:47:36 - INFO  - clone_path added to dict Successfully
+08-Aug-22 11:47:36 - INFO  - access_token added to dict Successfully
+08-Aug-22 11:47:36 - INFO  - Successfully parsed data from dict
+08-Aug-22 11:47:36 - DEBUG  - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+08-Aug-22 11:47:36 - DEBUG  - Popen(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=True, shell=None, istream=None)
+08-Aug-22 11:47:37 - DEBUG  - Cmd(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'])'s unused stdout: 
+08-Aug-22 11:47:37 - DEBUG  - AutoInterrupt wait stderr: b"fatal: destination path 'C:/Users/Administrator/Desktop/Repo_path' already exists and is not an empty directory.\n"
+08-Aug-22 11:47:37 - ERROR  - Error in git_pull()
+08-Aug-22 11:47:37 - INFO  - ----------------------------------------
+08-Aug-22 11:47:37 - INFO  - Json File Opened Successfully
+08-Aug-22 11:47:37 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt filepath added to dict Successfully
+08-Aug-22 11:47:37 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt filepath added to dict Successfully
+08-Aug-22 11:47:37 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt file opened
+08-Aug-22 11:47:37 - INFO  - Version edited successfully
+08-Aug-22 11:47:37 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt file opened
+08-Aug-22 11:47:37 - INFO  - Version edited successfully
+08-Aug-22 11:47:40 - INFO  - Updated and Pushed successfully
+08-Aug-22 11:58:25 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 11:58:25 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 11:58:25 - INFO  - ----------------------------------------
+08-Aug-22 11:58:25 - INFO  - Git data json file opened successfully
+08-Aug-22 11:58:25 - INFO  - branch_name added to dict Successfully
+08-Aug-22 11:58:25 - INFO  - clone_path added to dict Successfully
+08-Aug-22 11:58:25 - INFO  - access_token added to dict Successfully
+08-Aug-22 11:58:25 - INFO  - Successfully parsed data from dict
+08-Aug-22 11:58:25 - DEBUG  - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+08-Aug-22 11:58:25 - DEBUG  - Popen(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=True, shell=None, istream=None)
+08-Aug-22 11:58:26 - DEBUG  - Cmd(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'])'s unused stdout: 
+08-Aug-22 11:58:26 - DEBUG  - AutoInterrupt wait stderr: b"fatal: destination path 'C:/Users/Administrator/Desktop/Repo_path' already exists and is not an empty directory.\n"
+08-Aug-22 11:58:26 - ERROR  - Error in git_pull()
+08-Aug-22 11:58:26 - INFO  - ----------------------------------------
+08-Aug-22 11:58:26 - INFO  - Json File Opened Successfully
+08-Aug-22 11:58:26 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt filepath added to dict Successfully
+08-Aug-22 11:58:26 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt filepath added to dict Successfully
+08-Aug-22 11:58:26 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt file opened
+08-Aug-22 11:58:26 - INFO  - Version edited successfully
+08-Aug-22 11:58:26 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt file opened
+08-Aug-22 11:58:26 - INFO  - Version edited successfully
+08-Aug-22 11:58:31 - INFO  - Updated and Pushed successfully
+08-Aug-22 12:00:12 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 12:00:12 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 12:00:13 - INFO  - ----------------------------------------
+08-Aug-22 12:00:13 - INFO  - Git data json file opened successfully
+08-Aug-22 12:00:13 - INFO  - branch_name added to dict Successfully
+08-Aug-22 12:00:13 - INFO  - clone_path added to dict Successfully
+08-Aug-22 12:00:13 - INFO  - access_token added to dict Successfully
+08-Aug-22 12:00:13 - INFO  - Successfully parsed data from dict
+08-Aug-22 12:00:13 - DEBUG  - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+08-Aug-22 12:00:13 - DEBUG  - Popen(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=True, shell=None, istream=None)
+08-Aug-22 12:00:13 - DEBUG  - Cmd(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'])'s unused stdout: 
+08-Aug-22 12:00:13 - DEBUG  - AutoInterrupt wait stderr: b"fatal: destination path 'C:/Users/Administrator/Desktop/Repo_path' already exists and is not an empty directory.\n"
+08-Aug-22 12:00:13 - ERROR  - Error in git_pull()
+08-Aug-22 12:00:13 - INFO  - ----------------------------------------
+08-Aug-22 12:00:13 - INFO  - Json File Opened Successfully
+08-Aug-22 12:00:13 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt filepath added to dict Successfully
+08-Aug-22 12:00:13 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt filepath added to dict Successfully
+08-Aug-22 12:00:13 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt file opened
+08-Aug-22 12:00:13 - INFO  - Version edited successfully
+08-Aug-22 12:00:13 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt file opened
+08-Aug-22 12:00:13 - INFO  - Version edited successfully
+08-Aug-22 12:00:19 - INFO  - Updated and Pushed successfully
+08-Aug-22 12:10:19 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 12:10:19 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 12:10:19 - INFO  - ----------------------------------------
+08-Aug-22 12:10:19 - INFO  - Git data json file opened successfully
+08-Aug-22 12:10:19 - INFO  - branch_name added to dict Successfully
+08-Aug-22 12:10:19 - INFO  - clone_path added to dict Successfully
+08-Aug-22 12:10:19 - INFO  - access_token added to dict Successfully
+08-Aug-22 12:10:19 - INFO  - Successfully parsed data from dict
+08-Aug-22 12:10:19 - DEBUG  - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+08-Aug-22 12:10:19 - DEBUG  - Popen(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=True, shell=None, istream=None)
+08-Aug-22 12:10:20 - DEBUG  - Cmd(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'])'s unused stdout: 
+08-Aug-22 12:10:20 - DEBUG  - AutoInterrupt wait stderr: b"fatal: destination path 'C:/Users/Administrator/Desktop/Repo_path' already exists and is not an empty directory.\n"
+08-Aug-22 12:10:20 - ERROR  - Error in git_pull()
+08-Aug-22 12:10:20 - INFO  - ----------------------------------------
+08-Aug-22 12:10:20 - INFO  - Json File Opened Successfully
+08-Aug-22 12:10:20 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt filepath added to dict Successfully
+08-Aug-22 12:10:20 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt filepath added to dict Successfully
+08-Aug-22 12:10:20 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt file opened
+08-Aug-22 12:10:20 - INFO  - Version edited successfully
+08-Aug-22 12:10:20 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt file opened
+08-Aug-22 12:10:20 - INFO  - Version edited successfully
+08-Aug-22 12:10:26 - INFO  - Updated and Pushed successfully
+08-Aug-22 13:01:49 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 13:01:49 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 13:01:49 - INFO  - ----------------------------------------
+08-Aug-22 13:01:49 - INFO  - Git data json file opened successfully
+08-Aug-22 13:01:49 - INFO  - branch_name added to dict Successfully
+08-Aug-22 13:01:49 - INFO  - clone_path added to dict Successfully
+08-Aug-22 13:01:49 - INFO  - access_token added to dict Successfully
+08-Aug-22 13:01:49 - INFO  - Successfully parsed data from dict
+08-Aug-22 13:01:49 - DEBUG  - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+08-Aug-22 13:01:49 - DEBUG  - Popen(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'], cwd=C:\Users\Administrator\Desktop\Python_Task_Github, universal_newlines=True, shell=None, istream=None)
+08-Aug-22 13:01:50 - DEBUG  - Cmd(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'])'s unused stdout: 
+08-Aug-22 13:01:50 - DEBUG  - AutoInterrupt wait stderr: b"fatal: destination path 'C:/Users/Administrator/Desktop/Repo_path' already exists and is not an empty directory.\n"
+08-Aug-22 13:01:50 - ERROR  - Error in git_pull()
+08-Aug-22 13:01:50 - INFO  - ----------------------------------------
+08-Aug-22 13:01:50 - INFO  - Json File Opened Successfully
+08-Aug-22 13:01:50 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt filepath added to dict Successfully
+08-Aug-22 13:01:50 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt filepath added to dict Successfully
+08-Aug-22 13:01:50 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt file opened
+08-Aug-22 13:01:50 - INFO  - Version edited successfully
+08-Aug-22 13:01:50 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile2.txt file opened
+08-Aug-22 13:01:50 - INFO  - Version edited successfully
+08-Aug-22 13:01:55 - INFO  - Updated and Pushed successfully
