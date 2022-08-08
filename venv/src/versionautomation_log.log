@@ -1,0 +1,20 @@
+08-Aug-22 10:48:33 - DEBUG  - Popen(['git', 'version'], cwd=C:\Users\Administrator\PycharmProjects\Github_Automation\venv\src, universal_newlines=False, shell=None, istream=None)
+08-Aug-22 10:48:33 - INFO  - ----------------------------------------
+08-Aug-22 10:48:33 - INFO  - Git data json file opened successfully
+08-Aug-22 10:48:33 - INFO  - branch_name added to dict Successfully
+08-Aug-22 10:48:33 - INFO  - clone_path added to dict Successfully
+08-Aug-22 10:48:33 - INFO  - access_token added to dict Successfully
+08-Aug-22 10:48:33 - INFO  - Successfully parsed data from dict
+08-Aug-22 10:48:33 - DEBUG  - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+08-Aug-22 10:48:33 - DEBUG  - Popen(['git', 'clone', '-v', 'https://github.com/harikutty5896/Programming-Task.git', 'C:/Users/Administrator/Desktop/Repo_path'], cwd=C:\Users\Administrator\PycharmProjects\Github_Automation\venv\src, universal_newlines=True, shell=None, istream=None)
+08-Aug-22 10:48:33 - ERROR  - Error in git_pull()
+08-Aug-22 10:48:33 - INFO  - ----------------------------------------
+08-Aug-22 10:48:33 - INFO  - Json File Opened Successfully
+08-Aug-22 10:48:33 - INFO  - C:/Users/Administrator/Desktop/Repo_path/iamnew.txt filepath added to dict Successfully
+08-Aug-22 10:48:33 - INFO  - C:/Users/Administrator/Desktop/Repo_path/testfile.txt filepath added to dict Successfully
+08-Aug-22 10:48:33 - ERROR  - Exception occurred while changing version in .rc file
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\Github_Automation\venv\src\ChangeVersion.py", line 63, in replaceversion
+    with open(key, 'r', encoding='utf-8') as rc_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Administrator/Desktop/Repo_path/iamnew.txt'
+08-Aug-22 10:48:33 - ERROR  - Error in git_push()
